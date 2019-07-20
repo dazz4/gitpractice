@@ -1,4 +1,8 @@
 test1
 Edit file
+<<<<<<< HEAD
 Edit file again
 Some extra changes
+=======
+We are going to add another file
+>>>>>>> feature
